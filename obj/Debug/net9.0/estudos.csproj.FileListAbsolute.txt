@@ -1,0 +1,14 @@
+/home/samuel/Documentos/estudos/bin/Debug/net9.0/estudos
+/home/samuel/Documentos/estudos/bin/Debug/net9.0/estudos.deps.json
+/home/samuel/Documentos/estudos/bin/Debug/net9.0/estudos.runtimeconfig.json
+/home/samuel/Documentos/estudos/bin/Debug/net9.0/estudos.dll
+/home/samuel/Documentos/estudos/bin/Debug/net9.0/estudos.pdb
+/home/samuel/Documentos/estudos/obj/Debug/net9.0/estudos.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/estudos/obj/Debug/net9.0/estudos.AssemblyInfoInputs.cache
+/home/samuel/Documentos/estudos/obj/Debug/net9.0/estudos.AssemblyInfo.cs
+/home/samuel/Documentos/estudos/obj/Debug/net9.0/estudos.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/estudos/obj/Debug/net9.0/estudos.dll
+/home/samuel/Documentos/estudos/obj/Debug/net9.0/refint/estudos.dll
+/home/samuel/Documentos/estudos/obj/Debug/net9.0/estudos.pdb
+/home/samuel/Documentos/estudos/obj/Debug/net9.0/estudos.genruntimeconfig.cache
+/home/samuel/Documentos/estudos/obj/Debug/net9.0/ref/estudos.dll
